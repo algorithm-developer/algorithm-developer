@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @algorithm-developer
-- 👀 I’m interested in BackEnd, FrontEnd, DevOps
+- 👀 I’m interested in BackEnd, FrontEnd, DevOps, Data Analyst
 
 <!---
 algorithm-developer/algorithm-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
